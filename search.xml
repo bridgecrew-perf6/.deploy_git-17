@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Test without layout</title>
-    <url>/2022/02/18/Test-without-a-layout-specified/</url>
-    <content><![CDATA[<p>This is a line in english</p>
-<p>测试</p>
-]]></content>
-      <tags>
-        <tag>测试</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>上海教授毒杀徐州拐卖村（转载）</title>
     <url>/2022/02/19/2022-02-17-professor-in-shanghai-poisoned-xuzhou-trafficking-village/</url>
     <content><![CDATA[<p><em>此文完全纪实，作者劳夫，西安局原社保中心主任，曾任列车段段长。</em></p>
@@ -112,6 +102,16 @@
       </categories>
   </entry>
   <entry>
+    <title>Test without layout</title>
+    <url>/2022/02/18/Test-without-a-layout-specified/</url>
+    <content><![CDATA[<p>This is a line in english</p>
+<p>测试</p>
+]]></content>
+      <tags>
+        <tag>测试</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>layout: false的时候出现中文乱码</title>
     <url>/2022/02/18/layout-false%E7%9A%84%E6%97%B6%E5%80%99%E5%87%BA%E7%8E%B0%E4%B8%AD%E6%96%87%E4%B9%B1%E7%A0%81/</url>
     <content><![CDATA[<p>这是怎么回事呢？</p>
@@ -165,8 +165,14 @@
     <content><![CDATA[<p>hexo new “title”</p>
 <p>write in typora, blabla</p>
 <p>hexo generate -d</p>
-<p>test bilibili tag</p>
-<div class="bili_video"><iframe src="https://player.bilibili.com/player.html?aid=NaN&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" width="544" height="452" allowfullscreen="true"> </iframe></div>
+<style>.bbplayer{width: 100%; max-width: 850px; margin: auto}</style><div class="bbplayer"><iframe class="bbplayer" id="mmedia-xpivSBpFyRodlmdx" src="https://player.bilibili.com/player.html?bvid=BV16W411t7mq&page=1&high_quality=1&danmaku=false" allowfullscreen="allowfullscreen" scrolling="no" border="0" frameborder="0" framespacing="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts allow-popups"></iframe></div><script> document.getElementById("mmedia-xpivSBpFyRodlmdx").style.height=document.getElementById("mmedia-xpivSBpFyRodlmdx").scrollWidth*0.76+"px";
+    window.onresize = function(){
+      document.getElementById("mmedia-xpivSBpFyRodlmdx").style.height=document.getElementById("mmedia-xpivSBpFyRodlmdx").scrollWidth*0.76+"px";
+    }; </script>
+<style>.bbplayer{width: 100%; max-width: 850px; margin: auto}</style><div class="bbplayer"><iframe class="bbplayer" id="mmedia-SwblIaLqizQOazpL" src="https://player.bilibili.com/player.html?bvid=BV1tP4y1A7kM&page=1&high_quality=1&danmaku=true" allowfullscreen="allowfullscreen" scrolling="no" border="0" frameborder="0" framespacing="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts allow-popups"></iframe></div><script> document.getElementById("mmedia-SwblIaLqizQOazpL").style.height=document.getElementById("mmedia-SwblIaLqizQOazpL").scrollWidth*0.76+"px";
+    window.onresize = function(){
+      document.getElementById("mmedia-SwblIaLqizQOazpL").style.height=document.getElementById("mmedia-SwblIaLqizQOazpL").scrollWidth*0.76+"px";
+    }; </script>
 
 ]]></content>
       <tags>
