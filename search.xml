@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Test without layout</title>
+    <url>/2022/02/18/Test-without-a-layout-specified/</url>
+    <content><![CDATA[<p>This is a line in english</p>
+<p>测试</p>
+]]></content>
+      <tags>
+        <tag>测试</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>上海教授毒杀徐州拐卖村（转载）</title>
     <url>/2022/02/19/2022-02-17-professor-in-shanghai-poisoned-xuzhou-trafficking-village/</url>
     <content><![CDATA[<p><em>此文完全纪实，作者劳夫，西安局原社保中心主任，曾任列车段段长。</em></p>
@@ -102,16 +112,6 @@
       </categories>
   </entry>
   <entry>
-    <title>Test without layout</title>
-    <url>/2022/02/18/Test-without-a-layout-specified/</url>
-    <content><![CDATA[<p>This is a line in english</p>
-<p>测试</p>
-]]></content>
-      <tags>
-        <tag>测试</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>layout: false的时候出现中文乱码</title>
     <url>/2022/02/18/layout-false%E7%9A%84%E6%97%B6%E5%80%99%E5%87%BA%E7%8E%B0%E4%B8%AD%E6%96%87%E4%B9%B1%E7%A0%81/</url>
     <content><![CDATA[<p>这是怎么回事呢？</p>
@@ -164,7 +164,10 @@
     <url>/2022/02/19/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E7%BB%93%E6%9D%9F%EF%BC%8C%E5%BC%80%E5%A7%8B%E5%86%99%E4%B8%80%E4%BA%9B%E5%80%BC%E5%BE%97record%E7%9A%84%E4%B8%9C%E8%A5%BF%E5%90%A7/</url>
     <content><![CDATA[<p>hexo new “title”</p>
 <p>write in typora, blabla</p>
-<p>hexo generate -d </p>
+<p>hexo generate -d</p>
+<p>test bilibili tag</p>
+<div class="bili_video"><iframe src="https://player.bilibili.com/player.html?aid=NaN&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" width="544" height="452" allowfullscreen="true"> </iframe></div>
+
 ]]></content>
       <tags>
         <tag>计划</tag>
