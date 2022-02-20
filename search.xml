@@ -1,97 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>lww质疑我做这件事（bog）的意义何在</title>
-    <url>/2022/02/19/%E6%9C%AA%E5%88%86%E7%B1%BB/lww%E8%B4%A8%E7%96%91%E6%88%91%E5%81%9A%E8%BF%99%E4%BB%B6%E4%BA%8B%EF%BC%88bog%EF%BC%89%E7%9A%84%E6%84%8F%E4%B9%89%E4%BD%95%E5%9C%A8/</url>
-    <content><![CDATA[<p>我的回应有三点：</p>
-<ol>
-<li>搭建系统这件事本身让我感觉着迷，就像其他朋友喜欢玩游戏一样，我喜欢玩 code，这是一种游戏。</li>
-<li>blog 的定位在于分享有用的知识，而不是满足自己的分享欲，它的风格应该是严谨的，严肃的。</li>
-<li>制造和使用工具是智人与动物的根本区别。学习使用工具是积极的，进步的，值得肯定的。</li>
-</ol>
-]]></content>
-      <categories>
-        <category>未分类</category>
-      </categories>
-      <tags>
-        <tag>生活感悟</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>博客搭建结束，开始写一些值得record的东西吧</title>
-    <url>/2022/02/19/%E6%9C%AA%E5%88%86%E7%B1%BB/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E7%BB%93%E6%9D%9F%EF%BC%8C%E5%BC%80%E5%A7%8B%E5%86%99%E4%B8%80%E4%BA%9B%E5%80%BC%E5%BE%97record%E7%9A%84%E4%B8%9C%E8%A5%BF%E5%90%A7/</url>
-    <content><![CDATA[<p>hexo new “title”</p>
-<p>write in typora, blabla</p>
-<p>hexo generate -d</p>
-<h2 id="百年孤独分享"><a href="#百年孤独分享" class="headerlink" title="百年孤独分享"></a>百年孤独分享</h2><style>.bbplayer{width: 100%; max-width: 850px; margin: auto}</style><div class="bbplayer"><iframe class="bbplayer" id="mmedia-TqzeTfHlbXiEsaBS" src="https://player.bilibili.com/player.html?bvid=BV1tP4y1A7kM&page=1&high_quality=1&danmaku=true" allowfullscreen="allowfullscreen" scrolling="no" border="0" frameborder="0" framespacing="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts allow-popups"></iframe></div><script> document.getElementById("mmedia-TqzeTfHlbXiEsaBS").style.height=document.getElementById("mmedia-TqzeTfHlbXiEsaBS").scrollWidth*0.76+"px";
-    window.onresize = function(){
-      document.getElementById("mmedia-TqzeTfHlbXiEsaBS").style.height=document.getElementById("mmedia-TqzeTfHlbXiEsaBS").scrollWidth*0.76+"px";
-    }; </script>
-
-]]></content>
-      <categories>
-        <category>未分类</category>
-      </categories>
-      <tags>
-        <tag>计划</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>生命的意义就在于具有抵抗自身熵增的能力.md</title>
-    <url>/2022/02/20/%E6%9C%AA%E5%88%86%E7%B1%BB/%E7%94%9F%E5%91%BD%E7%9A%84%E6%84%8F%E4%B9%89%E5%B0%B1%E5%9C%A8%E4%BA%8E%E5%85%B7%E6%9C%89%E6%8A%B5%E6%8A%97%E8%87%AA%E8%BA%AB%E7%86%B5%E5%A2%9E%E7%9A%84%E8%83%BD%E5%8A%9B/</url>
-    <content><![CDATA[<p>摘自百度百科：</p>
-<blockquote>
-<p>早在1943年，在爱尔兰都柏林三一学院的多次演讲中，薛定谔就指出了熵增过程也必然体现在生命体系之中，其于1944年出版的著作《生命是什么》 [1]  中更是将其列为其基本观点，即“生命是非平衡系统并以负熵为生。”</p>
-</blockquote>
-<p>人体是一个巨大的化学反应库，生命的代谢过程建立在生物化学反应的基础上。<strong>从某种角度来讲，生命的意义就在于具有抵抗自身熵增的能力，即具有熵减的能力。</strong>在人体的生命化学活动中，自发和非自发过程同时存在，相互依存，因为熵增的必然性，生命体不断地由有序走回无序，最终不可逆地走向老化死亡。</p>
-]]></content>
-      <categories>
-        <category>未分类</category>
-      </categories>
-      <tags>
-        <tag>tag1</tag>
-        <tag>tag2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>第一篇博客写给我最最可爱的女朋友</title>
-    <url>/2022/02/18/%E6%9C%AA%E5%88%86%E7%B1%BB/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E5%86%99%E7%BB%99%E6%88%91%E6%9C%80%E6%9C%80%E5%8F%AF%E7%88%B1%E7%9A%84%E5%A5%B3%E6%9C%8B%E5%8F%8B/</url>
-    <content><![CDATA[<p>我爱lww.</p>
-<p>她的出现让我的生活发生了翻天覆地的变化。</p>
-<p>以前，我是一个习惯于一个人独来独往的闷骚宅男。</p>
-<p>她让我认识到，爱让一个人更完整；<br>她让我认识到，自己一个人的时候的一些爱好，比如看片，撩妹等事情是多么无趣；<br>她让我认识到，爱不仅仅是一种人生的美好体验，也意味着给予，意味着设身处地为另一个人着想，意味着承担责任；</p>
-<p>I love her so much!<br>I’d like to put on a picture of her here.<br>She is so beautiful.</p>
-<p><img src="https://gitee.com/achang658/achang_pic_csdn/raw/master/2022/02/0087D3rQgy1gx0k0zw92rj33402c07wj-1645166394.jpeg" alt="亲爱的lww"></p>
-]]></content>
-      <categories>
-        <category>未分类</category>
-      </categories>
-      <tags>
-        <tag>爱情</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>男生与女生的重大区别.md</title>
-    <url>/2022/02/20/story%20and%20truth/%E7%94%B7%E7%94%9F%E4%B8%8E%E5%A5%B3%E7%94%9F%E7%9A%84%E9%87%8D%E5%A4%A7%E5%8C%BA%E5%88%AB/</url>
-    <content><![CDATA[<p>作者：默默的池塘<br>链接：(<a href="https://www.zhihu.com/question/335505500/answer/800800354">https://www.zhihu.com/question/335505500/answer/800800354</a>)</p>
-<p>来源：知乎<br>著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。</p>
-<p>男生通常像狗，思路是决策型的。女生通常像猫，思路是试探型的。<img src="https://pic3.zhimg.com/50/v2-9b7d5a2572b51058588d336eaa73e9e9_720w.jpg?source=1940ef5c" data-size="normal" data-caption="表情1" data-rawwidth="657" data-rawheight="481" class="origin_image zh-lightbox-thumb" width="657"/></p>
-<p>感谢图片作者圣绘宠物你一回家，猫跟狗都蹲在门边。狗必须跟你黏糊一阵，猫就是过来看看情况。</p>
-<p>关于【信任】男生跟你说，我所有事都信你。这是一个决策的开始。女生跟你说，我所有事都信你。这是一个试探的开始。</p>
-<p>关于【吃饭】男生说，吃什么都行。这是个决策，他真的吃什么都行。女生说吃什么都行。这是个试探，你得挨个问她吃什么。</p>
-<p>关于【意见】男生问，我穿这件衣服好看吗？这是个决策，你说好看，他就选那件。女生问，我穿这件衣服好看吗？这是个试探，你说好看，她会去试下一件。</p>
-<p>关于【暧昧】男生说，我不计较你和男同事来往。这是个决策，他不一定有底，他是决定不计较。女生说，我不计较你和女同事来往。这是个试探，具体要看你和哪个女同事来往。</p>
-<p>关于【礼物】男生说，亲爱的你不需要给我买礼物。这是个决策，你不买没任何风险。女生说，亲爱的你不需要给我买礼物。这是个试探，试试看你是不是真不买。</p>
-<p>关于【私奔】男生说，我带你走吧。这是个决策，他私奔路线都有个大概了。女生说，你带我走吧。这是个试探，尝试解锁新剧情。</p>
-<p>SO……</p>
-<p>关于【分手】女生认为自己传递的是一个【试探】他最终告诉你的是一个【决策】</p>
-<img src="https://pic3.zhimg.com/50/v2-9dc042f03b601f3e148ac246e9b203b5_720w.jpg?source=1940ef5c" data-caption="表情2" data-size="normal" data-rawwidth="224" data-rawheight="230" data-default-watermark-src="https://pic2.zhimg.com/50/v2-83c982cff39ea7c2f04ed9b9e59c39be_720w.jpg?source=1940ef5c" class="content_image" width="224"/>]]></content>
-      <tags>
-        <tag>tag1</tag>
-        <tag>tag2</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>上海教授毒杀徐州拐卖村（转载）</title>
     <url>/2022/02/19/story%20and%20truth/2022-02-17-professor-in-shanghai-poisoned-xuzhou-trafficking-village/</url>
     <content><![CDATA[<p><em>此文完全纪实，作者劳夫，西安局原社保中心主任，曾任列车段段长。</em></p>
@@ -192,6 +101,166 @@
       </categories>
   </entry>
   <entry>
+    <title>男生与女生的重大区别.md</title>
+    <url>/2022/02/20/story%20and%20truth/%E7%94%B7%E7%94%9F%E4%B8%8E%E5%A5%B3%E7%94%9F%E7%9A%84%E9%87%8D%E5%A4%A7%E5%8C%BA%E5%88%AB/</url>
+    <content><![CDATA[<p>作者：默默的池塘<br>链接：(<a href="https://www.zhihu.com/question/335505500/answer/800800354">https://www.zhihu.com/question/335505500/answer/800800354</a>)</p>
+<p>来源：知乎<br>著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。</p>
+<p>男生通常像狗，思路是决策型的。女生通常像猫，思路是试探型的。<img src="https://pic3.zhimg.com/50/v2-9b7d5a2572b51058588d336eaa73e9e9_720w.jpg?source=1940ef5c" data-size="normal" data-caption="表情1" data-rawwidth="657" data-rawheight="481" class="origin_image zh-lightbox-thumb" width="657"/></p>
+<p>感谢图片作者圣绘宠物你一回家，猫跟狗都蹲在门边。狗必须跟你黏糊一阵，猫就是过来看看情况。</p>
+<p>关于【信任】男生跟你说，我所有事都信你。这是一个决策的开始。女生跟你说，我所有事都信你。这是一个试探的开始。</p>
+<p>关于【吃饭】男生说，吃什么都行。这是个决策，他真的吃什么都行。女生说吃什么都行。这是个试探，你得挨个问她吃什么。</p>
+<p>关于【意见】男生问，我穿这件衣服好看吗？这是个决策，你说好看，他就选那件。女生问，我穿这件衣服好看吗？这是个试探，你说好看，她会去试下一件。</p>
+<p>关于【暧昧】男生说，我不计较你和男同事来往。这是个决策，他不一定有底，他是决定不计较。女生说，我不计较你和女同事来往。这是个试探，具体要看你和哪个女同事来往。</p>
+<p>关于【礼物】男生说，亲爱的你不需要给我买礼物。这是个决策，你不买没任何风险。女生说，亲爱的你不需要给我买礼物。这是个试探，试试看你是不是真不买。</p>
+<p>关于【私奔】男生说，我带你走吧。这是个决策，他私奔路线都有个大概了。女生说，你带我走吧。这是个试探，尝试解锁新剧情。</p>
+<p>SO……</p>
+<p>关于【分手】女生认为自己传递的是一个【试探】他最终告诉你的是一个【决策】</p>
+<img src="https://pic3.zhimg.com/50/v2-9dc042f03b601f3e148ac246e9b203b5_720w.jpg?source=1940ef5c" data-caption="表情2" data-size="normal" data-rawwidth="224" data-rawheight="230" data-default-watermark-src="https://pic2.zhimg.com/50/v2-83c982cff39ea7c2f04ed9b9e59c39be_720w.jpg?source=1940ef5c" class="content_image" width="224"/>]]></content>
+      <categories>
+        <category>story and truth</category>
+      </categories>
+      <tags>
+        <tag>tag1</tag>
+        <tag>tag2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>markdown reference</title>
+    <url>/2022/02/20/%E6%B5%8B%E8%AF%95/Markdown%20Reference/</url>
+    <content><![CDATA[<h1 id="Markdown-For-Typora"><a href="#Markdown-For-Typora" class="headerlink" title="Markdown For Typora"></a>Markdown For Typora</h1><h2 id="Overview"><a href="#Overview" class="headerlink" title="Overview"></a>Overview</h2><p><strong>Markdown</strong> is created by <a href="http://daringfireball.net/">Daring Fireball</a>; the original guideline is <a href="http://daringfireball.net/projects/markdown/syntax">here</a>. Its syntax, however, varies between different parsers or editors. <strong>Typora</strong> is using <a href="https://help.github.com/articles/github-flavored-markdown/">GitHub Flavored Markdown</a>.</p>
+<p>[toc]</p>
+<h2 id="Block-Elements"><a href="#Block-Elements" class="headerlink" title="Block Elements"></a>Block Elements</h2><h3 id="Paragraph-and-line-breaks"><a href="#Paragraph-and-line-breaks" class="headerlink" title="Paragraph and line breaks"></a>Paragraph and line breaks</h3><p>A paragraph is simply one or more consecutive lines of text. In markdown source code, paragraphs are separated by two or more blank lines. In Typora, you only need one blank line (press <code>Return</code> once) to create a new paragraph.</p>
+<p>Press <code>Shift</code> + <code>Return</code> to create a single line break. Most other markdown parsers will ignore single line breaks, so in order to make other markdown parsers recognize your line break, you can leave two spaces at the end of the line, or insert <code>&lt;br/&gt;</code>.</p>
+<h3 id="Headers"><a href="#Headers" class="headerlink" title="Headers"></a>Headers</h3><p>Headers use 1-6 hash (<code>#</code>) characters at the start of the line, corresponding to header levels 1-6. For example:</p>
+<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line"><span class="section"># This is an H1</span></span><br><span class="line"></span><br><span class="line"><span class="section">## This is an H2</span></span><br><span class="line"></span><br><span class="line"><span class="section">###### This is an H6</span></span><br></pre></td></tr></table></figure>
+
+<p>In Typora, input ‘#’s followed by title content, and press <code>Return</code> key will create a header.</p>
+<h3 id="Blockquotes"><a href="#Blockquotes" class="headerlink" title="Blockquotes"></a>Blockquotes</h3><p>Markdown uses email-style &gt; characters for block quoting. They are presented as:</p>
+<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line"><span class="quote">&gt; This is a blockquote with two paragraphs. This is first paragraph.</span></span><br><span class="line"><span class="quote">&gt;</span></span><br><span class="line"><span class="quote">&gt; This is second pragraph. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.</span></span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="quote">&gt; This is another blockquote with one paragraph. There is three empty line to seperate two blockquote.</span></span><br></pre></td></tr></table></figure>
+
+<p>In Typora, inputting ‘&gt;’ followed by your quote contents will generate a quote block. Typora will insert a proper ‘&gt;’ or line break for you. Nested block quotes (a block quote inside another block quote) by adding additional levels of ‘&gt;’.</p>
+<h3 id="Lists"><a href="#Lists" class="headerlink" title="Lists"></a>Lists</h3><p>Input <code>* list item 1</code> will create an unordered list - the <code>*</code> symbol can be replace with <code>+</code> or <code>-</code>.</p>
+<p>Input <code>1. list item 1</code> will create an ordered list - their markdown source code is as follows:</p>
+<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line"><span class="section">## un-ordered list</span></span><br><span class="line"><span class="bullet">*</span>   Red</span><br><span class="line"><span class="bullet">*</span>   Green</span><br><span class="line"><span class="bullet">*</span>   Blue</span><br><span class="line"></span><br><span class="line"><span class="section">## ordered list</span></span><br><span class="line"><span class="bullet">1.</span>  Red</span><br><span class="line"><span class="bullet">2.</span> 	Green</span><br><span class="line"><span class="bullet">3.</span>	Blue</span><br></pre></td></tr></table></figure>
+
+<h3 id="Task-List"><a href="#Task-List" class="headerlink" title="Task List"></a>Task List</h3><p>Task lists are lists with items marked as either [ ] or [x] (incomplete or complete). For example:</p>
+<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line"><span class="bullet">-</span> [ ] a task list item</span><br><span class="line"><span class="bullet">-</span> [ ] list syntax required</span><br><span class="line"><span class="bullet">-</span> [ ] normal <span class="strong">**formatting**</span>, @mentions, #1234 refs</span><br><span class="line"><span class="bullet">-</span> [ ] incomplete</span><br><span class="line"><span class="bullet">-</span> [x] completed</span><br></pre></td></tr></table></figure>
+
+<p>You can change the complete&#x2F;incomplete state by clicking on the checkbox before the item.</p>
+<h3 id="Fenced-Code-Blocks"><a href="#Fenced-Code-Blocks" class="headerlink" title="(Fenced) Code Blocks"></a>(Fenced) Code Blocks</h3><p>Typora only supports fences in GitHub Flavored Markdown. Original code blocks in markdown are not supported.</p>
+<p>Using fences is easy: Input ``` and press <code>return</code>. Add an optional language identifier after ``` and we’ll run it through syntax highlighting:</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Here&#x27;s an example:</span><br><span class="line"></span><br><span class="line">```js</span><br><span class="line">function test() &#123;</span><br><span class="line">  console.log(&quot;notice the blank line before this function?&quot;);</span><br><span class="line">&#125;</span><br><span class="line">```</span><br><span class="line"></span><br><span class="line">syntax highlighting:</span><br><span class="line">```ruby</span><br><span class="line">require &#x27;redcarpet&#x27;</span><br><span class="line">markdown = Redcarpet.new(&quot;Hello World!&quot;)</span><br><span class="line">puts markdown.to_html</span><br><span class="line">```</span><br></pre></td></tr></table></figure>
+
+<h3 id="Math-Blocks"><a href="#Math-Blocks" class="headerlink" title="Math Blocks"></a>Math Blocks</h3><p>You can render <em>LaTeX</em> mathematical expressions using <strong>MathJax</strong>.</p>
+<p>To add a mathematical expression, input <code>$$</code> and press the ‘Return’ key. This will trigger an input field which accepts <em>Tex&#x2F;LaTex</em> source. For example:</p>
+<p>$$<br>\mathbf{V}_1 \times \mathbf{V}_2 &#x3D;  \begin{vmatrix}<br>\mathbf{i} &amp; \mathbf{j} &amp; \mathbf{k} \<br>\frac{\partial X}{\partial u} &amp;  \frac{\partial Y}{\partial u} &amp; 0 \<br>\frac{\partial X}{\partial v} &amp;  \frac{\partial Y}{\partial v} &amp; 0 \<br>\end{vmatrix}<br>$$</p>
+<p>In the markdown source file, the math block is a <em>LaTeX</em> expression wrapped by a pair of ‘$$’ marks:</p>
+<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">$$</span><br><span class="line">\mathbf&#123;V&#125;<span class="emphasis">_1 \times \mathbf&#123;V&#125;_</span>2 =  \begin&#123;vmatrix&#125;</span><br><span class="line">\mathbf&#123;i&#125; &amp; \mathbf&#123;j&#125; &amp; \mathbf&#123;k&#125; \\</span><br><span class="line">\frac&#123;\partial X&#125;&#123;\partial u&#125; &amp;  \frac&#123;\partial Y&#125;&#123;\partial u&#125; &amp; 0 \\</span><br><span class="line">\frac&#123;\partial X&#125;&#123;\partial v&#125; &amp;  \frac&#123;\partial Y&#125;&#123;\partial v&#125; &amp; 0 \\</span><br><span class="line">\end&#123;vmatrix&#125;</span><br><span class="line">$$</span><br></pre></td></tr></table></figure>
+
+<p>You can find more details <a href="https://support.typora.io/Math/">here</a>.</p>
+<h3 id="Tables"><a href="#Tables" class="headerlink" title="Tables"></a>Tables</h3><p>Input <code>| First Header  | Second Header |</code> and press the <code>return</code> key. This will create a table with two columns.</p>
+<p>After a table is created, putting focus on that table will open up a toolbar for the table where you can resize, align, or delete the table. You can also use the context menu to copy and add&#x2F;delete individual columns&#x2F;rows.</p>
+<p>The full syntax for tables is described below, but it is not necessary to know the full syntax in detail as the markdown source code for tables is generated automatically by Typora.</p>
+<p>In markdown source code, they look like:</p>
+<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">| First Header  | Second Header |</span><br><span class="line">| ------------- | ------------- |</span><br><span class="line">| Content Cell  | Content Cell  |</span><br><span class="line">| Content Cell  | Content Cell  |</span><br></pre></td></tr></table></figure>
+
+<p>You can also include inline Markdown such as links, bold, italics, or strikethrough in the table.</p>
+<p>Finally, by including colons (<code>:</code>) within the header row, you can define text in that column to be left-aligned, right-aligned, or center-aligned:</p>
+<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">| Left-Aligned  | Center Aligned  | Right Aligned |</span><br><span class="line">| :------------ |:---------------:| -----:|</span><br><span class="line">| col 3 is      | some wordy text | $1600 |</span><br><span class="line">| col 2 is      | centered        |   $12 |</span><br><span class="line">| zebra stripes | are neat        |    $1 |</span><br></pre></td></tr></table></figure>
+
+<p>A colon on the left-most side indicates a left-aligned column; a colon on the right-most side indicates a right-aligned column; a colon on both sides indicates a center-aligned column.</p>
+<h3 id="Footnotes"><a href="#Footnotes" class="headerlink" title="Footnotes"></a>Footnotes</h3><figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">You can create footnotes like this[^footnote].</span><br><span class="line"></span><br><span class="line">[<span class="symbol">^footnote</span>]: <span class="link">Here is the *text* of the **footnote**.</span></span><br></pre></td></tr></table></figure>
+
+<p>will produce:</p>
+<p>You can create footnotes like this[^footnote].</p>
+<p>[^footnote]: Here is the <em>text</em> of the <strong>footnote</strong>.</p>
+<p>Hover over the ‘footnote’ superscript to see content of the footnote.</p>
+<h3 id="Horizontal-Rules"><a href="#Horizontal-Rules" class="headerlink" title="Horizontal Rules"></a>Horizontal Rules</h3><p>Inputting <code>***</code> or <code>---</code> on a blank line and pressing <code>return</code> will draw a horizontal line.</p>
+<hr>
+<h3 id="YAML-Front-Matter"><a href="#YAML-Front-Matter" class="headerlink" title="YAML Front Matter"></a>YAML Front Matter</h3><p>Typora now supports <a href="http://jekyllrb.com/docs/frontmatter/">YAML Front Matter</a>. Input <code>---</code> at the top of the article and then press <code>Return</code> to introduce a metadata block. Alternatively, you can insert a metadata block from the top menu of Typora.</p>
+<h3 id="Table-of-Contents-TOC"><a href="#Table-of-Contents-TOC" class="headerlink" title="Table of Contents (TOC)"></a>Table of Contents (TOC)</h3><p>Input <code>[toc]</code> and press the <code>Return</code> key. This will create a  “Table of Contents” section. The TOC extracts all headers from the document, and its contents are updated automatically as you add to the document.</p>
+<h2 id="Span-Elements"><a href="#Span-Elements" class="headerlink" title="Span Elements"></a>Span Elements</h2><p>Span elements will be parsed and rendered right after typing. Moving the cursor in middle of those span elements will expand those elements into markdown source. Below is an explanation of the syntax for each span element.</p>
+<h3 id="Links"><a href="#Links" class="headerlink" title="Links"></a>Links</h3><p>Markdown supports two styles of links: inline and reference.</p>
+<p>In both styles, the link text is delimited by [square brackets].</p>
+<p>To create an inline link, use a set of regular parentheses immediately after the link text’s closing square bracket. Inside the parentheses, put the URL where you want the link to point, along with an optional title for the link, surrounded in quotes. For example:</p>
+<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">This is [<span class="string">an example</span>](<span class="link">http://example.com/ &quot;Title&quot;</span>) inline link.</span><br><span class="line"></span><br><span class="line">[<span class="string">This link</span>](<span class="link">http://example.net/</span>) has no title attribute.</span><br></pre></td></tr></table></figure>
+
+<p>will produce:</p>
+<p>This is <a href="http://example.com/" title="Title">an example</a> inline link. (<code>&lt;p&gt;This is &lt;a href=&quot;http://example.com/&quot; title=&quot;Title&quot;&gt;</code>)</p>
+<p><a href="http://example.net/">This link</a> has no title attribute. (<code>&lt;p&gt;&lt;a href=&quot;http://example.net/&quot;&gt;This link&lt;/a&gt; has no</code>)</p>
+<h4 id="Internal-Links"><a href="#Internal-Links" class="headerlink" title="Internal Links"></a>Internal Links</h4><p><strong>You can set the href to headers</strong>, which will create a bookmark that allow you to jump to that section after clicking. For example:</p>
+<p>Command(on Windows: Ctrl) + Click <a href="#block-elements">This link</a> will jump to header <code>Block Elements</code>. To see how to write that, please move cursor or click that link with <code>⌘</code> key pressed to expand the element into markdown source.</p>
+<h4 id="Reference-Links"><a href="#Reference-Links" class="headerlink" title="Reference Links"></a>Reference Links</h4><p>Reference-style links use a second set of square brackets, inside which you place a label of your choosing to identify the link:</p>
+<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">This is [<span class="string">an example</span>][<span class="symbol">id</span>] reference-style link.</span><br><span class="line"></span><br><span class="line">Then, anywhere in the document, you define your link label on a line by itself like this:</span><br><span class="line"></span><br><span class="line">[<span class="symbol">id</span>]: <span class="link">http://example.com/  &quot;Optional Title Here&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>In Typora, they will be rendered like so:</p>
+<p>This is <a href="http://example.com/" title="Optional Title Here">an example</a> reference-style link.</p>
+<p>The implicit link name shortcut allows you to omit the name of the link, in which case the link text itself is used as the name. Just use an empty set of square brackets — for example, to link the word “Google” to the google.com web site, you could simply write:</p>
+<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">[<span class="string">Google</span>][<span class="symbol"></span>]</span><br><span class="line">And then define the link:</span><br><span class="line"></span><br><span class="line">[<span class="symbol">Google</span>]: <span class="link">http://google.com/</span></span><br></pre></td></tr></table></figure>
+
+<p>In Typora, clicking the link will expand it for editing, and command+click will open the hyperlink in your web browser.</p>
+<h3 id="URLs"><a href="#URLs" class="headerlink" title="URLs"></a>URLs</h3><p>Typora allows you to insert URLs as links, wrapped by <code>&lt;</code>brackets<code>&gt;</code>.</p>
+<p><code>&lt;i@typora.io&gt;</code> becomes <a href="mailto:&#x69;&#64;&#x74;&#x79;&#112;&#111;&#x72;&#97;&#46;&#105;&#111;">&#x69;&#64;&#x74;&#x79;&#112;&#111;&#x72;&#97;&#46;&#105;&#111;</a>.</p>
+<p>Typora will also automatically link standard URLs. e.g: <a href="http://www.google.com/">www.google.com</a>.</p>
+<h3 id="Images"><a href="#Images" class="headerlink" title="Images"></a>Images</h3><p>Images have similar syntax as links, but they require an additional <code>!</code> char before the start of the link. The syntax for inserting an image looks like this:</p>
+<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">![<span class="string">Alt text</span>](<span class="link">/path/to/img.jpg</span>)</span><br><span class="line"></span><br><span class="line">![<span class="string">Alt text</span>](<span class="link">/path/to/img.jpg &quot;Optional title&quot;</span>)</span><br></pre></td></tr></table></figure>
+
+<p>You are able to use drag &amp; drop to insert an image from an image file or your web browser. You can modify the markdown source code by clicking on the image. A relative path will be used if the image that is added using drag &amp; drop is in same directory or sub-directory as the document you’re currently editing.</p>
+<p>If you’re using markdown for building websites, you may specify a URL prefix for the image preview on your local computer with property <code>typora-root-url</code> in YAML Front Matters. For example, input <code>typora-root-url:/User/Abner/Website/typora.io/</code> in YAML Front Matters, and then <code>![alt](/blog/img/test.png)</code> will be treated as <code>![alt](file:///User/Abner/Website/typora.io/blog/img/test.png)</code> in Typora.</p>
+<p>You can find more details <a href="https://support.typora.io/Images/">here</a>.</p>
+<h3 id="Emphasis"><a href="#Emphasis" class="headerlink" title="Emphasis"></a>Emphasis</h3><p>Markdown treats asterisks (<code>*</code>) and underscores (<code>_</code>) as indicators of emphasis. Text wrapped with one <code>*</code> or <code>_</code> will be wrapped with an HTML <code>&lt;em&gt;</code> tag. E.g:</p>
+<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line"><span class="emphasis">*single asterisks*</span></span><br><span class="line"></span><br><span class="line"><span class="emphasis">_single underscores_</span></span><br></pre></td></tr></table></figure>
+
+<p>output:</p>
+<p><em>single asterisks</em></p>
+<p><em>single underscores</em></p>
+<p>GFM will ignore underscores in words, which is commonly used in code and names, like this:</p>
+<blockquote>
+<p>wow_great_stuff</p>
+<p>do_this_and_do_that_and_another_thing.</p>
+</blockquote>
+<p>To produce a literal asterisk or underscore at a position where it would otherwise be used as an emphasis delimiter, you can backslash escape it:</p>
+<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">\<span class="emphasis">*this text is surrounded by literal asterisks\*</span></span><br></pre></td></tr></table></figure>
+
+<p>Typora recommends using the <code>*</code> symbol.</p>
+<h3 id="Strong"><a href="#Strong" class="headerlink" title="Strong"></a>Strong</h3><p>A double <code>*</code> or <code>_</code> will cause its enclosed contents to be wrapped with an HTML <code>&lt;strong&gt;</code> tag, e.g:</p>
+<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line"><span class="strong">**double asterisks**</span></span><br><span class="line"></span><br><span class="line"><span class="strong">__double underscores__</span></span><br></pre></td></tr></table></figure>
+
+<p>output:</p>
+<p><strong>double asterisks</strong></p>
+<p><strong>double underscores</strong></p>
+<p>Typora recommends using the <code>**</code> symbol.</p>
+<h3 id="Code"><a href="#Code" class="headerlink" title="Code"></a>Code</h3><p>To indicate an inline span of code, wrap it with backtick quotes (&#96;). Unlike a pre-formatted code block, a code span indicates code within a normal paragraph. For example:</p>
+<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">Use the <span class="code">`printf()`</span> function.</span><br></pre></td></tr></table></figure>
+
+<p>will produce:</p>
+<p>Use the <code>printf()</code> function.</p>
+<h3 id="Strikethrough"><a href="#Strikethrough" class="headerlink" title="Strikethrough"></a>Strikethrough</h3><p>GFM adds syntax to create strikethrough text, which is missing from standard Markdown.</p>
+<p><code>~~Mistaken text.~~</code> becomes <del>Mistaken text.</del></p>
+<h3 id="Underlines"><a href="#Underlines" class="headerlink" title="Underlines"></a>Underlines</h3><p>Underline is powered by raw HTML.</p>
+<p><code>&lt;u&gt;Underline&lt;/u&gt;</code> becomes <u>Underline</u>.</p>
+<h3 id="Emoji-smile"><a href="#Emoji-smile" class="headerlink" title="Emoji :smile:"></a>Emoji :smile:</h3><p>Input emoji with syntax <code>:smile:</code>.</p>
+<p>User can trigger auto-complete suggestions for emoji by pressing <code>ESC</code> key, or trigger it automatically after enabling it on preference panel. Also, inputting UTF-8 emoji characters directly is also supported by going to <code>Edit</code> -&gt; <code>Emoji &amp; Symbols</code> in the menu bar (macOS).</p>
+<h3 id="Inline-Math"><a href="#Inline-Math" class="headerlink" title="Inline Math"></a>Inline Math</h3><p>To use this feature, please enable it first in the <code>Preference</code> Panel -&gt; <code>Markdown</code> Tab. Then, use <code>$</code> to wrap a TeX command. For example: <code>$\lim_&#123;x \to \infty&#125; \exp(-x) = 0$</code> will be rendered as LaTeX command.</p>
+<p>To trigger inline preview for inline math: input “$”, then press the <code>ESC</code> key, then input a TeX command.</p>
+<p>You can find more details <a href="https://support.typora.io/Math/">here</a>.</p>
+<h3 id="Subscript"><a href="#Subscript" class="headerlink" title="Subscript"></a>Subscript</h3><p>To use this feature, please enable it first in the <code>Preference</code> Panel -&gt; <code>Markdown</code> Tab. Then, use <code>~</code> to wrap subscript content. For example: <code>H~2~O</code>, <code>X~long\ text~</code>&#x2F;</p>
+<h3 id="Superscript"><a href="#Superscript" class="headerlink" title="Superscript"></a>Superscript</h3><p>To use this feature, please enable it first in the <code>Preference</code> Panel -&gt; <code>Markdown</code> Tab. Then, use <code>^</code> to wrap superscript content. For example: <code>X^2^</code>.</p>
+<h3 id="Highlight"><a href="#Highlight" class="headerlink" title="Highlight"></a>Highlight</h3><p>To use this feature, please enable it first in the <code>Preference</code> Panel -&gt; <code>Markdown</code> Tab. Then, use <code>==</code> to wrap highlight content. For example: <code>==highlight==</code>.</p>
+<h2 id="HTML"><a href="#HTML" class="headerlink" title="HTML"></a>HTML</h2><p>You can use HTML to style content what pure Markdown does not support. For example, use <code>&lt;span style=&quot;color:red&quot;&gt;this text is red&lt;/span&gt;</code> to add text with red color.</p>
+<h3 id="Embed-Contents"><a href="#Embed-Contents" class="headerlink" title="Embed Contents"></a>Embed Contents</h3><p>Some websites provide iframe-based embed code which you can also paste into Typora. For example:</p>
+<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line"><span class="language-xml"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">height</span>=<span class="string">&#x27;265&#x27;</span> <span class="attr">scrolling</span>=<span class="string">&#x27;no&#x27;</span> <span class="attr">title</span>=<span class="string">&#x27;Fancy Animated SVG Menu&#x27;</span> <span class="attr">src</span>=<span class="string">&#x27;http://codepen.io/jeangontijo/embed/OxVywj/?height=265&amp;theme-id=0&amp;default-tab=css,result&amp;embed-version=2&#x27;</span> <span class="attr">frameborder</span>=<span class="string">&#x27;no&#x27;</span> <span class="attr">allowtransparency</span>=<span class="string">&#x27;true&#x27;</span> <span class="attr">allowfullscreen</span>=<span class="string">&#x27;true&#x27;</span> <span class="attr">style</span>=<span class="string">&#x27;width: 100%;&#x27;</span>&gt;</span></span><span class="language-xml"><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span></span><br></pre></td></tr></table></figure>
+
+<h3 id="Video"><a href="#Video" class="headerlink" title="Video"></a>Video</h3><p>You can use the <code>&lt;video&gt;</code> HTML tag to embed videos. For example:</p>
+<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line"><span class="language-xml"><span class="tag">&lt;<span class="name">video</span> <span class="attr">src</span>=<span class="string">&quot;xxx.mp4&quot;</span> /&gt;</span></span></span><br></pre></td></tr></table></figure>
+
+<h3 id="Other-HTML-Support"><a href="#Other-HTML-Support" class="headerlink" title="Other HTML Support"></a>Other HTML Support</h3><p>You can find more details <a href="https://support.typora.io/HTML/">here</a>.</p>
+]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
+  </entry>
+  <entry>
     <title>layout: false的时候出现中文乱码</title>
     <url>/2022/02/18/%E6%B5%8B%E8%AF%95/layout-false%E7%9A%84%E6%97%B6%E5%80%99%E5%87%BA%E7%8E%B0%E4%B8%AD%E6%96%87%E4%B9%B1%E7%A0%81/</url>
     <content><![CDATA[<p>这是怎么回事呢？</p>
@@ -252,6 +321,76 @@
       </categories>
       <tags>
         <tag>tag1,tag2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>lww质疑我做这件事（bog）的意义何在</title>
+    <url>/2022/02/19/%E6%9C%AA%E5%88%86%E7%B1%BB/lww%E8%B4%A8%E7%96%91%E6%88%91%E5%81%9A%E8%BF%99%E4%BB%B6%E4%BA%8B%EF%BC%88bog%EF%BC%89%E7%9A%84%E6%84%8F%E4%B9%89%E4%BD%95%E5%9C%A8/</url>
+    <content><![CDATA[<p>我的回应有三点：</p>
+<ol>
+<li>搭建系统这件事本身让我感觉着迷，就像其他朋友喜欢玩游戏一样，我喜欢玩 code，这是一种游戏。</li>
+<li>blog 的定位在于分享有用的知识，而不是满足自己的分享欲，它的风格应该是严谨的，严肃的。</li>
+<li>制造和使用工具是智人与动物的根本区别。学习使用工具是积极的，进步的，值得肯定的。</li>
+</ol>
+]]></content>
+      <categories>
+        <category>未分类</category>
+      </categories>
+      <tags>
+        <tag>生活感悟</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>博客搭建结束，开始写一些值得record的东西吧</title>
+    <url>/2022/02/19/%E6%9C%AA%E5%88%86%E7%B1%BB/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E7%BB%93%E6%9D%9F%EF%BC%8C%E5%BC%80%E5%A7%8B%E5%86%99%E4%B8%80%E4%BA%9B%E5%80%BC%E5%BE%97record%E7%9A%84%E4%B8%9C%E8%A5%BF%E5%90%A7/</url>
+    <content><![CDATA[<p>hexo new “title”</p>
+<p>write in typora, blabla</p>
+<p>hexo generate -d</p>
+<h2 id="百年孤独分享"><a href="#百年孤独分享" class="headerlink" title="百年孤独分享"></a>百年孤独分享</h2><style>.bbplayer{width: 100%; max-width: 850px; margin: auto}</style><div class="bbplayer"><iframe class="bbplayer" id="mmedia-gELMSkXmkbSkXdUA" src="https://player.bilibili.com/player.html?bvid=BV1tP4y1A7kM&page=1&high_quality=1&danmaku=true" allowfullscreen="allowfullscreen" scrolling="no" border="0" frameborder="0" framespacing="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts allow-popups"></iframe></div><script> document.getElementById("mmedia-gELMSkXmkbSkXdUA").style.height=document.getElementById("mmedia-gELMSkXmkbSkXdUA").scrollWidth*0.76+"px";
+    window.onresize = function(){
+      document.getElementById("mmedia-gELMSkXmkbSkXdUA").style.height=document.getElementById("mmedia-gELMSkXmkbSkXdUA").scrollWidth*0.76+"px";
+    }; </script>
+
+]]></content>
+      <categories>
+        <category>未分类</category>
+      </categories>
+      <tags>
+        <tag>计划</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>生命的意义就在于具有抵抗自身熵增的能力.md</title>
+    <url>/2022/02/20/%E6%9C%AA%E5%88%86%E7%B1%BB/%E7%94%9F%E5%91%BD%E7%9A%84%E6%84%8F%E4%B9%89%E5%B0%B1%E5%9C%A8%E4%BA%8E%E5%85%B7%E6%9C%89%E6%8A%B5%E6%8A%97%E8%87%AA%E8%BA%AB%E7%86%B5%E5%A2%9E%E7%9A%84%E8%83%BD%E5%8A%9B/</url>
+    <content><![CDATA[<p>摘自百度百科：</p>
+<blockquote>
+<p>早在1943年，在爱尔兰都柏林三一学院的多次演讲中，薛定谔就指出了熵增过程也必然体现在生命体系之中，其于1944年出版的著作《生命是什么》 [1]  中更是将其列为其基本观点，即“生命是非平衡系统并以负熵为生。”</p>
+</blockquote>
+<p>人体是一个巨大的化学反应库，生命的代谢过程建立在生物化学反应的基础上。<strong>从某种角度来讲，生命的意义就在于具有抵抗自身熵增的能力，即具有熵减的能力。</strong>在人体的生命化学活动中，自发和非自发过程同时存在，相互依存，因为熵增的必然性，生命体不断地由有序走回无序，最终不可逆地走向老化死亡。</p>
+]]></content>
+      <categories>
+        <category>未分类</category>
+      </categories>
+      <tags>
+        <tag>tag1</tag>
+        <tag>tag2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>第一篇博客写给我最最可爱的女朋友</title>
+    <url>/2022/02/18/%E6%9C%AA%E5%88%86%E7%B1%BB/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E5%86%99%E7%BB%99%E6%88%91%E6%9C%80%E6%9C%80%E5%8F%AF%E7%88%B1%E7%9A%84%E5%A5%B3%E6%9C%8B%E5%8F%8B/</url>
+    <content><![CDATA[<p>我爱lww.</p>
+<p>她的出现让我的生活发生了翻天覆地的变化。</p>
+<p>以前，我是一个习惯于一个人独来独往的闷骚宅男。</p>
+<p>她让我认识到，爱让一个人更完整；<br>她让我认识到，自己一个人的时候的一些爱好，比如看片，撩妹等事情是多么无趣；<br>她让我认识到，爱不仅仅是一种人生的美好体验，也意味着给予，意味着设身处地为另一个人着想，意味着承担责任；</p>
+<p>I love her so much!<br>I’d like to put on a picture of her here.<br>She is so beautiful.</p>
+<p><img src="https://gitee.com/achang658/achang_pic_csdn/raw/master/2022/02/0087D3rQgy1gx0k0zw92rj33402c07wj-1645166394.jpeg" alt="亲爱的lww"></p>
+]]></content>
+      <categories>
+        <category>未分类</category>
+      </categories>
+      <tags>
+        <tag>爱情</tag>
       </tags>
   </entry>
   <entry>
