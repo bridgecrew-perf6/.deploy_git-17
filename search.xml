@@ -1,6 +1,97 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>lww质疑我做这件事（bog）的意义何在</title>
+    <url>/2022/02/19/%E6%9C%AA%E5%88%86%E7%B1%BB/lww%E8%B4%A8%E7%96%91%E6%88%91%E5%81%9A%E8%BF%99%E4%BB%B6%E4%BA%8B%EF%BC%88bog%EF%BC%89%E7%9A%84%E6%84%8F%E4%B9%89%E4%BD%95%E5%9C%A8/</url>
+    <content><![CDATA[<p>我的回应有三点：</p>
+<ol>
+<li>搭建系统这件事本身让我感觉着迷，就像其他朋友喜欢玩游戏一样，我喜欢玩 code，这是一种游戏。</li>
+<li>blog 的定位在于分享有用的知识，而不是满足自己的分享欲，它的风格应该是严谨的，严肃的。</li>
+<li>制造和使用工具是智人与动物的根本区别。学习使用工具是积极的，进步的，值得肯定的。</li>
+</ol>
+]]></content>
+      <categories>
+        <category>未分类</category>
+      </categories>
+      <tags>
+        <tag>生活感悟</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>博客搭建结束，开始写一些值得record的东西吧</title>
+    <url>/2022/02/19/%E6%9C%AA%E5%88%86%E7%B1%BB/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E7%BB%93%E6%9D%9F%EF%BC%8C%E5%BC%80%E5%A7%8B%E5%86%99%E4%B8%80%E4%BA%9B%E5%80%BC%E5%BE%97record%E7%9A%84%E4%B8%9C%E8%A5%BF%E5%90%A7/</url>
+    <content><![CDATA[<p>hexo new “title”</p>
+<p>write in typora, blabla</p>
+<p>hexo generate -d</p>
+<h2 id="百年孤独分享"><a href="#百年孤独分享" class="headerlink" title="百年孤独分享"></a>百年孤独分享</h2><style>.bbplayer{width: 100%; max-width: 850px; margin: auto}</style><div class="bbplayer"><iframe class="bbplayer" id="mmedia-TqzeTfHlbXiEsaBS" src="https://player.bilibili.com/player.html?bvid=BV1tP4y1A7kM&page=1&high_quality=1&danmaku=true" allowfullscreen="allowfullscreen" scrolling="no" border="0" frameborder="0" framespacing="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts allow-popups"></iframe></div><script> document.getElementById("mmedia-TqzeTfHlbXiEsaBS").style.height=document.getElementById("mmedia-TqzeTfHlbXiEsaBS").scrollWidth*0.76+"px";
+    window.onresize = function(){
+      document.getElementById("mmedia-TqzeTfHlbXiEsaBS").style.height=document.getElementById("mmedia-TqzeTfHlbXiEsaBS").scrollWidth*0.76+"px";
+    }; </script>
+
+]]></content>
+      <categories>
+        <category>未分类</category>
+      </categories>
+      <tags>
+        <tag>计划</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>生命的意义就在于具有抵抗自身熵增的能力.md</title>
+    <url>/2022/02/20/%E6%9C%AA%E5%88%86%E7%B1%BB/%E7%94%9F%E5%91%BD%E7%9A%84%E6%84%8F%E4%B9%89%E5%B0%B1%E5%9C%A8%E4%BA%8E%E5%85%B7%E6%9C%89%E6%8A%B5%E6%8A%97%E8%87%AA%E8%BA%AB%E7%86%B5%E5%A2%9E%E7%9A%84%E8%83%BD%E5%8A%9B/</url>
+    <content><![CDATA[<p>摘自百度百科：</p>
+<blockquote>
+<p>早在1943年，在爱尔兰都柏林三一学院的多次演讲中，薛定谔就指出了熵增过程也必然体现在生命体系之中，其于1944年出版的著作《生命是什么》 [1]  中更是将其列为其基本观点，即“生命是非平衡系统并以负熵为生。”</p>
+</blockquote>
+<p>人体是一个巨大的化学反应库，生命的代谢过程建立在生物化学反应的基础上。<strong>从某种角度来讲，生命的意义就在于具有抵抗自身熵增的能力，即具有熵减的能力。</strong>在人体的生命化学活动中，自发和非自发过程同时存在，相互依存，因为熵增的必然性，生命体不断地由有序走回无序，最终不可逆地走向老化死亡。</p>
+]]></content>
+      <categories>
+        <category>未分类</category>
+      </categories>
+      <tags>
+        <tag>tag1</tag>
+        <tag>tag2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>第一篇博客写给我最最可爱的女朋友</title>
+    <url>/2022/02/18/%E6%9C%AA%E5%88%86%E7%B1%BB/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E5%86%99%E7%BB%99%E6%88%91%E6%9C%80%E6%9C%80%E5%8F%AF%E7%88%B1%E7%9A%84%E5%A5%B3%E6%9C%8B%E5%8F%8B/</url>
+    <content><![CDATA[<p>我爱lww.</p>
+<p>她的出现让我的生活发生了翻天覆地的变化。</p>
+<p>以前，我是一个习惯于一个人独来独往的闷骚宅男。</p>
+<p>她让我认识到，爱让一个人更完整；<br>她让我认识到，自己一个人的时候的一些爱好，比如看片，撩妹等事情是多么无趣；<br>她让我认识到，爱不仅仅是一种人生的美好体验，也意味着给予，意味着设身处地为另一个人着想，意味着承担责任；</p>
+<p>I love her so much!<br>I’d like to put on a picture of her here.<br>She is so beautiful.</p>
+<p><img src="https://gitee.com/achang658/achang_pic_csdn/raw/master/2022/02/0087D3rQgy1gx0k0zw92rj33402c07wj-1645166394.jpeg" alt="亲爱的lww"></p>
+]]></content>
+      <categories>
+        <category>未分类</category>
+      </categories>
+      <tags>
+        <tag>爱情</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>男生与女生的重大区别.md</title>
+    <url>/2022/02/20/story%20and%20truth/%E7%94%B7%E7%94%9F%E4%B8%8E%E5%A5%B3%E7%94%9F%E7%9A%84%E9%87%8D%E5%A4%A7%E5%8C%BA%E5%88%AB/</url>
+    <content><![CDATA[<p>作者：默默的池塘<br>链接：(<a href="https://www.zhihu.com/question/335505500/answer/800800354">https://www.zhihu.com/question/335505500/answer/800800354</a>)</p>
+<p>来源：知乎<br>著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。</p>
+<p>男生通常像狗，思路是决策型的。女生通常像猫，思路是试探型的。<img src="https://pic3.zhimg.com/50/v2-9b7d5a2572b51058588d336eaa73e9e9_720w.jpg?source=1940ef5c" data-size="normal" data-caption="表情1" data-rawwidth="657" data-rawheight="481" class="origin_image zh-lightbox-thumb" width="657"/></p>
+<p>感谢图片作者圣绘宠物你一回家，猫跟狗都蹲在门边。狗必须跟你黏糊一阵，猫就是过来看看情况。</p>
+<p>关于【信任】男生跟你说，我所有事都信你。这是一个决策的开始。女生跟你说，我所有事都信你。这是一个试探的开始。</p>
+<p>关于【吃饭】男生说，吃什么都行。这是个决策，他真的吃什么都行。女生说吃什么都行。这是个试探，你得挨个问她吃什么。</p>
+<p>关于【意见】男生问，我穿这件衣服好看吗？这是个决策，你说好看，他就选那件。女生问，我穿这件衣服好看吗？这是个试探，你说好看，她会去试下一件。</p>
+<p>关于【暧昧】男生说，我不计较你和男同事来往。这是个决策，他不一定有底，他是决定不计较。女生说，我不计较你和女同事来往。这是个试探，具体要看你和哪个女同事来往。</p>
+<p>关于【礼物】男生说，亲爱的你不需要给我买礼物。这是个决策，你不买没任何风险。女生说，亲爱的你不需要给我买礼物。这是个试探，试试看你是不是真不买。</p>
+<p>关于【私奔】男生说，我带你走吧。这是个决策，他私奔路线都有个大概了。女生说，你带我走吧。这是个试探，尝试解锁新剧情。</p>
+<p>SO……</p>
+<p>关于【分手】女生认为自己传递的是一个【试探】他最终告诉你的是一个【决策】</p>
+<img src="https://pic3.zhimg.com/50/v2-9dc042f03b601f3e148ac246e9b203b5_720w.jpg?source=1940ef5c" data-caption="表情2" data-size="normal" data-rawwidth="224" data-rawheight="230" data-default-watermark-src="https://pic2.zhimg.com/50/v2-83c982cff39ea7c2f04ed9b9e59c39be_720w.jpg?source=1940ef5c" class="content_image" width="224"/>]]></content>
+      <tags>
+        <tag>tag1</tag>
+        <tag>tag2</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>上海教授毒杀徐州拐卖村（转载）</title>
     <url>/2022/02/19/story%20and%20truth/2022-02-17-professor-in-shanghai-poisoned-xuzhou-trafficking-village/</url>
     <content><![CDATA[<p><em>此文完全纪实，作者劳夫，西安局原社保中心主任，曾任列车段段长。</em></p>
@@ -113,14 +204,6 @@
       </tags>
   </entry>
   <entry>
-    <title>test comments 2</title>
-    <url>/2022/02/19/%E6%B5%8B%E8%AF%95/test-comments-2/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>测试</category>
-      </categories>
-  </entry>
-  <entry>
     <title>yincha bar is a great place to study</title>
     <url>/2022/02/18/%E6%B5%8B%E8%AF%95/post-title-with-whitespace/</url>
     <content><![CDATA[<p><img src="https://gitee.com/achang658/achang_pic_csdn/raw/master/2022/02/20220218193242-1645183964.png" alt="憨憨"></p>
@@ -131,6 +214,14 @@
       <tags>
         <tag>生活感悟</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>test comments 2</title>
+    <url>/2022/02/19/%E6%B5%8B%E8%AF%95/test-comments-2/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
   </entry>
   <entry>
     <title>test comments</title>
@@ -161,76 +252,6 @@
       </categories>
       <tags>
         <tag>tag1,tag2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>lww质疑我做这件事（bog）的意义何在</title>
-    <url>/2022/02/19/%E6%9C%AA%E5%88%86%E7%B1%BB/lww%E8%B4%A8%E7%96%91%E6%88%91%E5%81%9A%E8%BF%99%E4%BB%B6%E4%BA%8B%EF%BC%88bog%EF%BC%89%E7%9A%84%E6%84%8F%E4%B9%89%E4%BD%95%E5%9C%A8/</url>
-    <content><![CDATA[<p>我的回应有三点：</p>
-<ol>
-<li>搭建系统这件事本身让我感觉着迷，就像其他朋友喜欢玩游戏一样，我喜欢玩 code，这是一种游戏。</li>
-<li>blog 的定位在于分享有用的知识，而不是满足自己的分享欲，它的风格应该是严谨的，严肃的。</li>
-<li>制造和使用工具是智人与动物的根本区别。学习使用工具是积极的，进步的，值得肯定的。</li>
-</ol>
-]]></content>
-      <categories>
-        <category>未分类</category>
-      </categories>
-      <tags>
-        <tag>生活感悟</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>博客搭建结束，开始写一些值得record的东西吧</title>
-    <url>/2022/02/19/%E6%9C%AA%E5%88%86%E7%B1%BB/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E7%BB%93%E6%9D%9F%EF%BC%8C%E5%BC%80%E5%A7%8B%E5%86%99%E4%B8%80%E4%BA%9B%E5%80%BC%E5%BE%97record%E7%9A%84%E4%B8%9C%E8%A5%BF%E5%90%A7/</url>
-    <content><![CDATA[<p>hexo new “title”</p>
-<p>write in typora, blabla</p>
-<p>hexo generate -d</p>
-<h2 id="百年孤独分享"><a href="#百年孤独分享" class="headerlink" title="百年孤独分享"></a>百年孤独分享</h2><style>.bbplayer{width: 100%; max-width: 850px; margin: auto}</style><div class="bbplayer"><iframe class="bbplayer" id="mmedia-VQWVhTpJyYYXetnX" src="https://player.bilibili.com/player.html?bvid=BV1tP4y1A7kM&page=1&high_quality=1&danmaku=true" allowfullscreen="allowfullscreen" scrolling="no" border="0" frameborder="0" framespacing="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts allow-popups"></iframe></div><script> document.getElementById("mmedia-VQWVhTpJyYYXetnX").style.height=document.getElementById("mmedia-VQWVhTpJyYYXetnX").scrollWidth*0.76+"px";
-    window.onresize = function(){
-      document.getElementById("mmedia-VQWVhTpJyYYXetnX").style.height=document.getElementById("mmedia-VQWVhTpJyYYXetnX").scrollWidth*0.76+"px";
-    }; </script>
-
-]]></content>
-      <categories>
-        <category>未分类</category>
-      </categories>
-      <tags>
-        <tag>计划</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>生命的意义就在于具有抵抗自身熵增的能力.md</title>
-    <url>/2022/02/20/%E6%9C%AA%E5%88%86%E7%B1%BB/%E7%94%9F%E5%91%BD%E7%9A%84%E6%84%8F%E4%B9%89%E5%B0%B1%E5%9C%A8%E4%BA%8E%E5%85%B7%E6%9C%89%E6%8A%B5%E6%8A%97%E8%87%AA%E8%BA%AB%E7%86%B5%E5%A2%9E%E7%9A%84%E8%83%BD%E5%8A%9B/</url>
-    <content><![CDATA[<p>摘自百度百科：</p>
-<blockquote>
-<p>早在1943年，在爱尔兰都柏林三一学院的多次演讲中，薛定谔就指出了熵增过程也必然体现在生命体系之中，其于1944年出版的著作《生命是什么》 [1]  中更是将其列为其基本观点，即“生命是非平衡系统并以负熵为生。”</p>
-</blockquote>
-<p>人体是一个巨大的化学反应库，生命的代谢过程建立在生物化学反应的基础上。<strong>从某种角度来讲，生命的意义就在于具有抵抗自身熵增的能力，即具有熵减的能力。</strong>在人体的生命化学活动中，自发和非自发过程同时存在，相互依存，因为熵增的必然性，生命体不断地由有序走回无序，最终不可逆地走向老化死亡。</p>
-]]></content>
-      <categories>
-        <category>未分类</category>
-      </categories>
-      <tags>
-        <tag>tag1</tag>
-        <tag>tag2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>第一篇博客写给我最最可爱的女朋友</title>
-    <url>/2022/02/18/%E6%9C%AA%E5%88%86%E7%B1%BB/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E5%86%99%E7%BB%99%E6%88%91%E6%9C%80%E6%9C%80%E5%8F%AF%E7%88%B1%E7%9A%84%E5%A5%B3%E6%9C%8B%E5%8F%8B/</url>
-    <content><![CDATA[<p>我爱lww.</p>
-<p>她的出现让我的生活发生了翻天覆地的变化。</p>
-<p>以前，我是一个习惯于一个人独来独往的闷骚宅男。</p>
-<p>她让我认识到，爱让一个人更完整；<br>她让我认识到，自己一个人的时候的一些爱好，比如看片，撩妹等事情是多么无趣；<br>她让我认识到，爱不仅仅是一种人生的美好体验，也意味着给予，意味着设身处地为另一个人着想，意味着承担责任；</p>
-<p>I love her so much!<br>I’d like to put on a picture of her here.<br>She is so beautiful.</p>
-<p><img src="https://gitee.com/achang658/achang_pic_csdn/raw/master/2022/02/0087D3rQgy1gx0k0zw92rj33402c07wj-1645166394.jpeg" alt="亲爱的lww"></p>
-]]></content>
-      <categories>
-        <category>未分类</category>
-      </categories>
-      <tags>
-        <tag>爱情</tag>
       </tags>
   </entry>
   <entry>
