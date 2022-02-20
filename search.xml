@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>上海教授毒杀徐州拐卖村（转载）</title>
-    <url>/2022/02/19/2022-02-17-professor-in-shanghai-poisoned-xuzhou-trafficking-village/</url>
+    <url>/2022/02/19/story%20and%20truth/2022-02-17-professor-in-shanghai-poisoned-xuzhou-trafficking-village/</url>
     <content><![CDATA[<p><em>此文完全纪实，作者劳夫，西安局原社保中心主任，曾任列车段段长。</em></p>
 <p>原文链接：<a href="https://mp.weixin.qq.com/s/lIN0mLjkX9nh9BdPiyDyEA">https://mp.weixin.qq.com/s/lIN0mLjkX9nh9BdPiyDyEA</a></p>
 <p>近日徐州丰县，八孩事件在网上炒得沸沸扬扬，使我想起了三十年前在徐州附近的一个车站，当地村民抢夺拐卖女研究生的事情。当时我在宝鸡到连云港列车车队工作。</p>
@@ -97,36 +97,32 @@
 <p>侯主任说完，在场的人都沉默了。</p>
 ]]></content>
       <categories>
-        <category>stories</category>
-        <category>truth</category>
+        <category>story and truth</category>
       </categories>
   </entry>
   <entry>
     <title>layout: false的时候出现中文乱码</title>
-    <url>/2022/02/18/layout-false%E7%9A%84%E6%97%B6%E5%80%99%E5%87%BA%E7%8E%B0%E4%B8%AD%E6%96%87%E4%B9%B1%E7%A0%81/</url>
+    <url>/2022/02/18/%E6%B5%8B%E8%AF%95/layout-false%E7%9A%84%E6%97%B6%E5%80%99%E5%87%BA%E7%8E%B0%E4%B8%AD%E6%96%87%E4%B9%B1%E7%A0%81/</url>
     <content><![CDATA[<p>这是怎么回事呢？</p>
 ]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
       <tags>
         <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
-    <title>lww质疑我做这件事（bog）的意义何在</title>
-    <url>/2022/02/19/lww%E8%B4%A8%E7%96%91%E6%88%91%E5%81%9A%E8%BF%99%E4%BB%B6%E4%BA%8B%EF%BC%88bog%EF%BC%89%E7%9A%84%E6%84%8F%E4%B9%89%E4%BD%95%E5%9C%A8/</url>
-    <content><![CDATA[<p>我的回应有三点：</p>
-<ol>
-<li>搭建系统这件事本身让我感觉着迷，就像其他朋友喜欢玩游戏一样，我喜欢玩 code，这是一种游戏。</li>
-<li>blog 的定位在于分享有用的知识，而不是满足自己的分享欲，它的风格应该是严谨的，严肃的。</li>
-<li>制造和使用工具是智人与动物的根本区别。学习使用工具是积极的，进步的，值得肯定的。</li>
-</ol>
-]]></content>
-      <tags>
-        <tag>生活感悟</tag>
-      </tags>
+    <title>test comments 2</title>
+    <url>/2022/02/19/%E6%B5%8B%E8%AF%95/test-comments-2/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
   </entry>
   <entry>
     <title>yincha bar is a great place to study</title>
-    <url>/2022/02/18/post-title-with-whitespace/</url>
+    <url>/2022/02/18/%E6%B5%8B%E8%AF%95/post-title-with-whitespace/</url>
     <content><![CDATA[<p><img src="https://gitee.com/achang658/achang_pic_csdn/raw/master/2022/02/20220218193242-1645183964.png" alt="憨憨"></p>
 ]]></content>
       <categories>
@@ -137,58 +133,84 @@
       </tags>
   </entry>
   <entry>
-    <title>test comments 2</title>
-    <url>/2022/02/19/test-comments-2/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>test comments</title>
-    <url>/2022/02/19/test-comments/</url>
+    <url>/2022/02/19/%E6%B5%8B%E8%AF%95/test-comments/</url>
     <content><![CDATA[]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
       <tags>
         <tag>测试</tag>
       </tags>
   </entry>
   <entry>
+    <title>测试categories层次目录的使用</title>
+    <url>/2022/02/18/%E6%B5%8B%E8%AF%95/%E6%B5%8B%E8%AF%95categories%E5%B1%82%E6%AC%A1%E7%9B%AE%E5%BD%95%E7%9A%84%E4%BD%BF%E7%94%A8/</url>
+    <content><![CDATA[<p>注意，tag是散列的平级的标签，而categories相当于是有层级结构的tag。<br>比如，你想写一篇关于c++中关于虚函数的博文，categories就可以写为：[C++, 虚函数]。</p>
+]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>生成front matter测试.md</title>
+    <url>/2022/02/20/%E6%B5%8B%E8%AF%95/%E7%94%9F%E6%88%90front%20matter%E6%B5%8B%E8%AF%95/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
+      <tags>
+        <tag>tag1,tag2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>lww质疑我做这件事（bog）的意义何在</title>
+    <url>/2022/02/19/%E6%9C%AA%E5%88%86%E7%B1%BB/lww%E8%B4%A8%E7%96%91%E6%88%91%E5%81%9A%E8%BF%99%E4%BB%B6%E4%BA%8B%EF%BC%88bog%EF%BC%89%E7%9A%84%E6%84%8F%E4%B9%89%E4%BD%95%E5%9C%A8/</url>
+    <content><![CDATA[<p>我的回应有三点：</p>
+<ol>
+<li>搭建系统这件事本身让我感觉着迷，就像其他朋友喜欢玩游戏一样，我喜欢玩 code，这是一种游戏。</li>
+<li>blog 的定位在于分享有用的知识，而不是满足自己的分享欲，它的风格应该是严谨的，严肃的。</li>
+<li>制造和使用工具是智人与动物的根本区别。学习使用工具是积极的，进步的，值得肯定的。</li>
+</ol>
+]]></content>
+      <categories>
+        <category>未分类</category>
+      </categories>
+      <tags>
+        <tag>生活感悟</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>博客搭建结束，开始写一些值得record的东西吧</title>
-    <url>/2022/02/19/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E7%BB%93%E6%9D%9F%EF%BC%8C%E5%BC%80%E5%A7%8B%E5%86%99%E4%B8%80%E4%BA%9B%E5%80%BC%E5%BE%97record%E7%9A%84%E4%B8%9C%E8%A5%BF%E5%90%A7/</url>
+    <url>/2022/02/19/%E6%9C%AA%E5%88%86%E7%B1%BB/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E7%BB%93%E6%9D%9F%EF%BC%8C%E5%BC%80%E5%A7%8B%E5%86%99%E4%B8%80%E4%BA%9B%E5%80%BC%E5%BE%97record%E7%9A%84%E4%B8%9C%E8%A5%BF%E5%90%A7/</url>
     <content><![CDATA[<p>hexo new “title”</p>
 <p>write in typora, blabla</p>
 <p>hexo generate -d</p>
-<h2 id="百年孤独分享"><a href="#百年孤独分享" class="headerlink" title="百年孤独分享"></a>百年孤独分享</h2><style>.bbplayer{width: 100%; max-width: 850px; margin: auto}</style><div class="bbplayer"><iframe class="bbplayer" id="mmedia-oqGCfPTzSJaagNcJ" src="https://player.bilibili.com/player.html?bvid=BV1tP4y1A7kM&page=1&high_quality=1&danmaku=true" allowfullscreen="allowfullscreen" scrolling="no" border="0" frameborder="0" framespacing="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts allow-popups"></iframe></div><script> document.getElementById("mmedia-oqGCfPTzSJaagNcJ").style.height=document.getElementById("mmedia-oqGCfPTzSJaagNcJ").scrollWidth*0.76+"px";
+<h2 id="百年孤独分享"><a href="#百年孤独分享" class="headerlink" title="百年孤独分享"></a>百年孤独分享</h2><style>.bbplayer{width: 100%; max-width: 850px; margin: auto}</style><div class="bbplayer"><iframe class="bbplayer" id="mmedia-VQWVhTpJyYYXetnX" src="https://player.bilibili.com/player.html?bvid=BV1tP4y1A7kM&page=1&high_quality=1&danmaku=true" allowfullscreen="allowfullscreen" scrolling="no" border="0" frameborder="0" framespacing="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts allow-popups"></iframe></div><script> document.getElementById("mmedia-VQWVhTpJyYYXetnX").style.height=document.getElementById("mmedia-VQWVhTpJyYYXetnX").scrollWidth*0.76+"px";
     window.onresize = function(){
-      document.getElementById("mmedia-oqGCfPTzSJaagNcJ").style.height=document.getElementById("mmedia-oqGCfPTzSJaagNcJ").scrollWidth*0.76+"px";
+      document.getElementById("mmedia-VQWVhTpJyYYXetnX").style.height=document.getElementById("mmedia-VQWVhTpJyYYXetnX").scrollWidth*0.76+"px";
     }; </script>
 
 ]]></content>
+      <categories>
+        <category>未分类</category>
+      </categories>
       <tags>
         <tag>计划</tag>
       </tags>
   </entry>
   <entry>
-    <title>测试categories层次目录的使用</title>
-    <url>/2022/02/18/%E6%B5%8B%E8%AF%95categories%E5%B1%82%E6%AC%A1%E7%9B%AE%E5%BD%95%E7%9A%84%E4%BD%BF%E7%94%A8/</url>
-    <content><![CDATA[<p>注意，tag是散列的平级的标签，而categories相当于是有层级结构的tag。<br>比如，你想写一篇关于c++中关于虚函数的博文，categories就可以写为：[C++, 虚函数]。</p>
-]]></content>
-      <categories>
-        <category>Sports</category>
-        <category>Baseball</category>
-        <category>MLB</category>
-        <category>American League</category>
-        <category>Boston Red Sox</category>
-        <category>New York Yankees</category>
-        <category>Rivalries</category>
-      </categories>
-  </entry>
-  <entry>
     <title>生命的意义就在于具有抵抗自身熵增的能力.md</title>
-    <url>/2022/02/20/%E7%94%9F%E5%91%BD%E7%9A%84%E6%84%8F%E4%B9%89%E5%B0%B1%E5%9C%A8%E4%BA%8E%E5%85%B7%E6%9C%89%E6%8A%B5%E6%8A%97%E8%87%AA%E8%BA%AB%E7%86%B5%E5%A2%9E%E7%9A%84%E8%83%BD%E5%8A%9B/</url>
+    <url>/2022/02/20/%E6%9C%AA%E5%88%86%E7%B1%BB/%E7%94%9F%E5%91%BD%E7%9A%84%E6%84%8F%E4%B9%89%E5%B0%B1%E5%9C%A8%E4%BA%8E%E5%85%B7%E6%9C%89%E6%8A%B5%E6%8A%97%E8%87%AA%E8%BA%AB%E7%86%B5%E5%A2%9E%E7%9A%84%E8%83%BD%E5%8A%9B/</url>
     <content><![CDATA[<p>摘自百度百科：</p>
 <blockquote>
 <p>早在1943年，在爱尔兰都柏林三一学院的多次演讲中，薛定谔就指出了熵增过程也必然体现在生命体系之中，其于1944年出版的著作《生命是什么》 [1]  中更是将其列为其基本观点，即“生命是非平衡系统并以负熵为生。”</p>
 </blockquote>
 <p>人体是一个巨大的化学反应库，生命的代谢过程建立在生物化学反应的基础上。<strong>从某种角度来讲，生命的意义就在于具有抵抗自身熵增的能力，即具有熵减的能力。</strong>在人体的生命化学活动中，自发和非自发过程同时存在，相互依存，因为熵增的必然性，生命体不断地由有序走回无序，最终不可逆地走向老化死亡。</p>
 ]]></content>
+      <categories>
+        <category>未分类</category>
+      </categories>
       <tags>
         <tag>tag1</tag>
         <tag>tag2</tag>
@@ -196,7 +218,7 @@
   </entry>
   <entry>
     <title>第一篇博客写给我最最可爱的女朋友</title>
-    <url>/2022/02/18/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E5%86%99%E7%BB%99%E6%88%91%E6%9C%80%E6%9C%80%E5%8F%AF%E7%88%B1%E7%9A%84%E5%A5%B3%E6%9C%8B%E5%8F%8B/</url>
+    <url>/2022/02/18/%E6%9C%AA%E5%88%86%E7%B1%BB/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E5%86%99%E7%BB%99%E6%88%91%E6%9C%80%E6%9C%80%E5%8F%AF%E7%88%B1%E7%9A%84%E5%A5%B3%E6%9C%8B%E5%8F%8B/</url>
     <content><![CDATA[<p>我爱lww.</p>
 <p>她的出现让我的生活发生了翻天覆地的变化。</p>
 <p>以前，我是一个习惯于一个人独来独往的闷骚宅男。</p>
@@ -204,15 +226,19 @@
 <p>I love her so much!<br>I’d like to put on a picture of her here.<br>She is so beautiful.</p>
 <p><img src="https://gitee.com/achang658/achang_pic_csdn/raw/master/2022/02/0087D3rQgy1gx0k0zw92rj33402c07wj-1645166394.jpeg" alt="亲爱的lww"></p>
 ]]></content>
+      <categories>
+        <category>未分类</category>
+      </categories>
       <tags>
         <tag>爱情</tag>
       </tags>
   </entry>
   <entry>
     <title>测试二级目录.md</title>
-    <url>/2022/02/20/%E4%B8%80%E7%BA%A7%E7%9B%AE%E5%BD%95/%E4%BA%8C%E7%BA%A7%E7%9B%AE%E5%BD%95/%E6%B5%8B%E8%AF%95%E4%BA%8C%E7%BA%A7%E7%9B%AE%E5%BD%95/</url>
+    <url>/2022/02/20/%E6%B5%8B%E8%AF%95/%E4%B8%80%E7%BA%A7%E7%9B%AE%E5%BD%95/%E4%BA%8C%E7%BA%A7%E7%9B%AE%E5%BD%95/%E6%B5%8B%E8%AF%95%E4%BA%8C%E7%BA%A7%E7%9B%AE%E5%BD%95/</url>
     <content><![CDATA[]]></content>
       <categories>
+        <category>测试</category>
         <category>一级目录</category>
         <category>二级目录</category>
       </categories>
@@ -223,11 +249,12 @@
   </entry>
   <entry>
     <title>测试图片粘贴.md</title>
-    <url>/2022/02/20/%E4%B8%80%E7%BA%A7%E7%9B%AE%E5%BD%95/%E4%BA%8C%E7%BA%A7%E7%9B%AE%E5%BD%95/%E4%B8%89%E7%BA%A7%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%B5%8B%E8%AF%95%E5%9B%BE%E7%89%87%E7%B2%98%E8%B4%B4/</url>
+    <url>/2022/02/20/%E6%B5%8B%E8%AF%95/%E4%B8%80%E7%BA%A7%E7%9B%AE%E5%BD%95/%E4%BA%8C%E7%BA%A7%E7%9B%AE%E5%BD%95/%E4%B8%89%E7%BA%A7%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%B5%8B%E8%AF%95%E5%9B%BE%E7%89%87%E7%B2%98%E8%B4%B4/</url>
     <content><![CDATA[<p>测试图片粘贴</p>
 <p><img src="https://gitee.com/achang658/achang_pic_csdn/raw/master/2022/02/663363F0-B1EB-4EAE-9F7E-15E7244B0E51-1645185207.jpeg" alt="小千"></p>
 ]]></content>
       <categories>
+        <category>测试</category>
         <category>一级目录</category>
         <category>二级目录</category>
         <category>三级文件夹</category>
@@ -238,9 +265,10 @@
   </entry>
   <entry>
     <title>测试自动生成front matter和categories层级.md</title>
-    <url>/2022/02/20/%E4%B8%80%E7%BA%A7%E7%9B%AE%E5%BD%95/%E4%BA%8C%E7%BA%A7%E7%9B%AE%E5%BD%95/%E4%B8%89%E7%BA%A7%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%B5%8B%E8%AF%95%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90front%20matter%E5%92%8Ccategories%E5%B1%82%E7%BA%A7/</url>
+    <url>/2022/02/20/%E6%B5%8B%E8%AF%95/%E4%B8%80%E7%BA%A7%E7%9B%AE%E5%BD%95/%E4%BA%8C%E7%BA%A7%E7%9B%AE%E5%BD%95/%E4%B8%89%E7%BA%A7%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%B5%8B%E8%AF%95%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90front%20matter%E5%92%8Ccategories%E5%B1%82%E7%BA%A7/</url>
     <content><![CDATA[]]></content>
       <categories>
+        <category>测试</category>
         <category>一级目录</category>
         <category>二级目录</category>
         <category>三级文件夹</category>
