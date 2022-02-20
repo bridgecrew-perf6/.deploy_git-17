@@ -155,19 +155,28 @@
     <content><![CDATA[<p>hexo new “title”</p>
 <p>write in typora, blabla</p>
 <p>hexo generate -d</p>
-<style>.bbplayer{width: 100%; max-width: 850px; margin: auto}</style><div class="bbplayer"><iframe class="bbplayer" id="mmedia-NwSEnOegcWsjCluu" src="https://player.bilibili.com/player.html?bvid=BV13b4y177bs&page=1&high_quality=1&danmaku=false" allowfullscreen="allowfullscreen" scrolling="no" border="0" frameborder="0" framespacing="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts allow-popups"></iframe></div><script> document.getElementById("mmedia-NwSEnOegcWsjCluu").style.height=document.getElementById("mmedia-NwSEnOegcWsjCluu").scrollWidth*0.76+"px";
+<h2 id="百年孤独分享"><a href="#百年孤独分享" class="headerlink" title="百年孤独分享"></a>百年孤独分享</h2><style>.bbplayer{width: 100%; max-width: 850px; margin: auto}</style><div class="bbplayer"><iframe class="bbplayer" id="mmedia-ybutgFBECmzgqoKI" src="https://player.bilibili.com/player.html?bvid=BV1tP4y1A7kM&page=1&high_quality=1&danmaku=true" allowfullscreen="allowfullscreen" scrolling="no" border="0" frameborder="0" framespacing="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts allow-popups"></iframe></div><script> document.getElementById("mmedia-ybutgFBECmzgqoKI").style.height=document.getElementById("mmedia-ybutgFBECmzgqoKI").scrollWidth*0.76+"px";
     window.onresize = function(){
-      document.getElementById("mmedia-NwSEnOegcWsjCluu").style.height=document.getElementById("mmedia-NwSEnOegcWsjCluu").scrollWidth*0.76+"px";
-    }; </script>
-
-<style>.bbplayer{width: 100%; max-width: 850px; margin: auto}</style><div class="bbplayer"><iframe class="bbplayer" id="mmedia-ieHmjXGZIzXJjAlz" src="https://player.bilibili.com/player.html?bvid=BV1tP4y1A7kM&page=1&high_quality=1&danmaku=true" allowfullscreen="allowfullscreen" scrolling="no" border="0" frameborder="0" framespacing="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts allow-popups"></iframe></div><script> document.getElementById("mmedia-ieHmjXGZIzXJjAlz").style.height=document.getElementById("mmedia-ieHmjXGZIzXJjAlz").scrollWidth*0.76+"px";
-    window.onresize = function(){
-      document.getElementById("mmedia-ieHmjXGZIzXJjAlz").style.height=document.getElementById("mmedia-ieHmjXGZIzXJjAlz").scrollWidth*0.76+"px";
+      document.getElementById("mmedia-ybutgFBECmzgqoKI").style.height=document.getElementById("mmedia-ybutgFBECmzgqoKI").scrollWidth*0.76+"px";
     }; </script>
 
 ]]></content>
       <tags>
         <tag>计划</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>生命的意义就在于具有抵抗自身熵增的能力.md</title>
+    <url>/2022/02/20/%E7%94%9F%E5%91%BD%E7%9A%84%E6%84%8F%E4%B9%89%E5%B0%B1%E5%9C%A8%E4%BA%8E%E5%85%B7%E6%9C%89%E6%8A%B5%E6%8A%97%E8%87%AA%E8%BA%AB%E7%86%B5%E5%A2%9E%E7%9A%84%E8%83%BD%E5%8A%9B/</url>
+    <content><![CDATA[<p>摘自百度百科：</p>
+<blockquote>
+<p>早在1943年，在爱尔兰都柏林三一学院的多次演讲中，薛定谔就指出了熵增过程也必然体现在生命体系之中，其于1944年出版的著作《生命是什么》 [1]  中更是将其列为其基本观点，即“生命是非平衡系统并以负熵为生。”</p>
+</blockquote>
+<p>人体是一个巨大的化学反应库，生命的代谢过程建立在生物化学反应的基础上。<strong>从某种角度来讲，生命的意义就在于具有抵抗自身熵增的能力，即具有熵减的能力。</strong>在人体的生命化学活动中，自发和非自发过程同时存在，相互依存，因为熵增的必然性，生命体不断地由有序走回无序，最终不可逆地走向老化死亡。</p>
+]]></content>
+      <tags>
+        <tag>tag1</tag>
+        <tag>tag2</tag>
       </tags>
   </entry>
   <entry>
@@ -197,6 +206,48 @@
 ]]></content>
       <tags>
         <tag>爱情</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>测试二级目录.md</title>
+    <url>/2022/02/20/%E4%B8%80%E7%BA%A7%E7%9B%AE%E5%BD%95/%E4%BA%8C%E7%BA%A7%E7%9B%AE%E5%BD%95/%E6%B5%8B%E8%AF%95%E4%BA%8C%E7%BA%A7%E7%9B%AE%E5%BD%95/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>一级目录</category>
+        <category>二级目录</category>
+      </categories>
+      <tags>
+        <tag>tag1</tag>
+        <tag>tag2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>测试图片粘贴.md</title>
+    <url>/2022/02/20/%E4%B8%80%E7%BA%A7%E7%9B%AE%E5%BD%95/%E4%BA%8C%E7%BA%A7%E7%9B%AE%E5%BD%95/%E4%B8%89%E7%BA%A7%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%B5%8B%E8%AF%95%E5%9B%BE%E7%89%87%E7%B2%98%E8%B4%B4/</url>
+    <content><![CDATA[<p>测试图片粘贴</p>
+<p><img src="https://gitee.com/achang658/achang_pic_csdn/raw/master/2022/02/663363F0-B1EB-4EAE-9F7E-15E7244B0E51-1645185207.jpeg" alt="小千"></p>
+]]></content>
+      <categories>
+        <category>一级目录</category>
+        <category>二级目录</category>
+        <category>三级文件夹</category>
+      </categories>
+      <tags>
+        <tag>测试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>测试自动生成front matter和categories层级.md</title>
+    <url>/2022/02/20/%E4%B8%80%E7%BA%A7%E7%9B%AE%E5%BD%95/%E4%BA%8C%E7%BA%A7%E7%9B%AE%E5%BD%95/%E4%B8%89%E7%BA%A7%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%B5%8B%E8%AF%95%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90front%20matter%E5%92%8Ccategories%E5%B1%82%E7%BA%A7/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>一级目录</category>
+        <category>二级目录</category>
+        <category>三级文件夹</category>
+      </categories>
+      <tags>
+        <tag>tag1</tag>
+        <tag>tag2</tag>
       </tags>
   </entry>
 </search>
